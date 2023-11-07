@@ -35,7 +35,9 @@ It is designed to work with the Arduino Micro, for the Atmega32U4 microcontrolle
 
 8. Once uploaded, the MIDI controller is ready to use.
 
-## Usage
+## Build steps
+
+TODO: Upload photos and schematics
 
 1. Connect your potentiometers to the multiplexers.
 
